@@ -1,5 +1,5 @@
 #Contacts
 
-Contacts is a small 
+Contacts is a
 contact management app written
 in c#.
