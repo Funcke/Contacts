@@ -1,0 +1,12 @@
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.ContactEdit.resources
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.SearchForm.resources
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\jonas\OneDrive\Documents\GitHub\Contacts\Contacts\obj\Debug\Contacts.pdb

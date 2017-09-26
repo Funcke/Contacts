@@ -39,16 +39,17 @@
             this.lbl_FamilyName.AutoSize = true;
             this.lbl_FamilyName.Location = new System.Drawing.Point(12, 110);
             this.lbl_FamilyName.Name = "lbl_FamilyName";
-            this.lbl_FamilyName.Size = new System.Drawing.Size(80, 15);
+            this.lbl_FamilyName.Size = new System.Drawing.Size(95, 18);
             this.lbl_FamilyName.TabIndex = 0;
             this.lbl_FamilyName.Text = "Family Name";
             // 
             // lb_Output
             // 
             this.lb_Output.FormattingEnabled = true;
+            this.lb_Output.ItemHeight = 17;
             this.lb_Output.Location = new System.Drawing.Point(12, 12);
             this.lb_Output.Name = "lb_Output";
-            this.lb_Output.Size = new System.Drawing.Size(180, 95);
+            this.lb_Output.Size = new System.Drawing.Size(180, 89);
             this.lb_Output.TabIndex = 3;
             // 
             // cmd_Search
@@ -75,16 +76,16 @@
             this.txt_Search.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F, System.Drawing.FontStyle.Underline);
             this.txt_Search.Location = new System.Drawing.Point(12, 129);
             this.txt_Search.Name = "txt_Search";
-            this.txt_Search.Size = new System.Drawing.Size(111, 13);
+            this.txt_Search.Size = new System.Drawing.Size(111, 17);
             this.txt_Search.TabIndex = 18;
             // 
             // SearchForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(204, 161);
+            this.ClientSize = new System.Drawing.Size(202, 152);
             this.Controls.Add(this.txt_Search);
             this.Controls.Add(this.cmd_Search);
             this.Controls.Add(this.lb_Output);
